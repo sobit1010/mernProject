@@ -125,6 +125,7 @@ const Payment = ({ history }) => {
             <CreditCardIcon />
             <CardNumberElement className="paymentInput" />
           </div>
+          
           <div>
             <EventIcon />
             <CardExpiryElement className="paymentInput" />
