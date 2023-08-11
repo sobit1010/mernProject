@@ -64,8 +64,10 @@
     "webpack": "^4.44.0"
   } ,
 
-  "proxy": "http://localhost:4000/" ,
+  "homepage": "." ,
 
-  "homepage": "."
+  "proxy": "https://mern-ecommerce-46oq.onrender.com/"
+
+
   
 }
